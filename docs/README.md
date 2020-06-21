@@ -12,6 +12,8 @@ We use [NavigatorLanguage.language](https://developer.mozilla.org/en-US/docs/Web
 
 ![Hindi](hindi.png) ![German](german.png) ![Spanish](spanish.png)
 
+See it in action at my personal site, [lukemoorman.com](https://lukemoorman.com).
+
 ## Usage
 
 Include the script in your website, either using `yarn` or `npm` (coming soon!), or with a `script` tag. We recommend at the bottom of the page `body`, like:
