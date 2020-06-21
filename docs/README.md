@@ -18,6 +18,14 @@ Then, add a default greeting to your page, like "Hello!":
 
 The page will load, and change from the hard-coded default greeting, to the heart-language of the user.
 
+## Examples
+
+![Hindi](hindi.png)
+
+![German](german.png)
+
+![Spanish](spanish.png)
+
 ## Supported Languages
 
 - English
