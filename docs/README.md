@@ -10,11 +10,7 @@ We use [NavigatorLanguage.language](https://developer.mozilla.org/en-US/docs/Web
 
 ## Examples
 
-![Hindi](hindi.png)
-
-![German](german.png)
-
-![Spanish](spanish.png)
+![Hindi](hindi.png) ![German](german.png) ![Spanish](spanish.png)
 
 ## Usage
 
