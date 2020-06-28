@@ -1,0 +1,9 @@
+{
+  "name": "@kmoo/greeter",
+  "version": "0.1.0-alpha",
+  "description": "Greet visitors to your website in their heart language & using the time of day with this tiny JS script. 🌎",
+  "author": "Luke Moorman <luke@lukemoorman.com> (https://lukemoorman.com)",
+  "license": "GPL-3.0",
+  "main": "greeter.js",
+  "repository": "git@github.com:kmoo/greeter.git"
+}
