@@ -1,0 +1,194 @@
+# Supported Languages
+
+Below is a list of fully supported, partiall supported and languages that are not yet supported. I welcome PRs to support more languages (I'd love to include all language codes!), regionally-specific greetings, and spelling, grammatical and cultural improvements to the langauge.
+
+## Fully Supported
+
+- Albanian
+- Amharic
+- Arabic
+- Armenian
+- Azerbaijani
+- Belarusian
+- Bengali
+- Bosnian
+- Bulgarian
+- Burmese
+- Catalan; Valencian
+- Chichewa; Chewa; Nyanja
+- Chinese
+- Corsican
+- Croatian
+- Czech
+- Danish
+- Dutch
+- English
+- Esperanto
+- Estonian
+- Ewe
+- Finnish
+- French
+- Galician
+- Georgian
+- German
+- Greek, Modern
+- Gujarati
+- Haitian; Haitian Creole
+- Hausa
+- Hebrew (modern)
+- Hindi
+- Hungarian
+- Indonesian
+- Irish
+- Igbo
+- Icelandic
+- Italian
+- Japanese
+- Kannada
+- Kazakh
+- Khmer
+- Kirghiz, Kyrgyz
+- Korean
+- Kurdish
+- Latin
+- Luxembourgish, Letzeburgesch
+- Lao
+- Lithuanian
+- Latvian
+- Macedonian
+- Malagasy
+- Malay
+- Malayalam
+- Maltese
+- Māori
+- Marathi (Marāṭhī)
+- Mongolian
+- Nepali
+- Norwegian
+- Oriya
+- Panjabi, Punjabi
+- Persian
+- Polish
+- Pashto, Pushto
+- Portuguese
+- Romanian, Moldavian, Moldovan
+- Russian
+- Sindhi
+- Samoan
+- Serbian
+- Scottish Gaelic; Gaelic
+- Shona
+- Sinhala, Sinhalese
+- Slovak
+- Slovene
+- Somali
+- Southern Sotho
+- Spanish; Castilian
+- Sundanese
+- Swahili
+- Swedish
+- Tamil
+- Telugu
+- Tajik
+- Thai
+- Tagalog
+- Turkish
+- Uighur, Uyghur
+- Urdu
+- Uzbek
+
+### Partially Supported
+
+- Afrikaans
+- Basque
+- Ukrainian
+- Vietnamese
+- Welsh
+- Western Frisian
+- Yiddish
+- Yoruba
+
+### Not Supported Yet
+
+- Abkhaz
+- Afar
+- Akan
+- Aragonese
+- Assamese
+- Avaric
+- Avestan
+- Aymara
+- Bambara
+- Bashkir
+- Bihari
+- Bislama
+- Breton
+- Chamorro
+- Chechen
+- Chuvash
+- Cornish
+- Cree
+- Divehi; Dhivehi; Maldivian;
+- Faroese
+- Fijian
+- Fula; Fulah; Pulaar; Pular
+- Guaraní
+- Herero
+- Hiri Motu
+- Interlingua
+- Interlingue
+- Inupiaq
+- Ido
+- Inuktitut
+- Javanese
+- Kalaallisut, Greenlandic
+- Kanuri
+- Kashmiri
+- Kikuyu, Gikuyu
+- Kinyarwanda
+- Komi
+- Kongo
+- Kwanyama, Kuanyama
+- Luganda
+- Limburgish, Limburgan, Limburger
+- Lingala
+- Luba-Katanga
+- Manx
+- Marshallese
+- Nauru
+- Navajo, Navaho
+- Norwegian Bokmål
+- North Ndebele
+- Ndonga
+- Norwegian Nynorsk
+- Nuosu
+- South Ndebele
+- Occitan
+- Ojibwe, Ojibwa
+- Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic
+- Oromo
+- Ossetian, Ossetic
+- Pāli
+- Quechua
+- Romansh
+- Kirundi
+- Sanskrit (Saṁskṛta)
+- Sardinian
+- Northern Sami
+- Sango
+- Swati
+- Tigrinya
+- Tibetan Standard, Tibetan, Central
+- Turkmen
+- Tswana
+- Tonga (Tonga Islands)
+- Tsonga
+- Tatar
+- Twi
+- Tahitian
+- Venda
+- Volapük
+- Walloon
+- Wolof
+- Xhosa
+- Zhuang, Chuang
