@@ -32,7 +32,7 @@ The page will load, and change from the hard-coded default greeting, to the hear
 
 ## Language Support
 
-Greet fully supports 91 languages, with partial support for 8 languages! To see the full list, check out [Supported Languages](./supported_languages.md)
+Greet fully supports 91 languages, with partial support for 8 languages! 🌏🌍🌎 To see the full list, check out [Supported Languages](./supported_languages.md)
 
 ## How can I get involved?
 
